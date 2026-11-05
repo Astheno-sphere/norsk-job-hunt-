@@ -36,29 +36,33 @@
 4. «Takk, da sender jeg søknaden i dag.»
 Record her answer to 2 verbatim; it replaces the opening line of the letter.
 
-## Letter (NO, about 260 words; native check before send)
+## Letter (NO, v2 2026-11-06, about 270 words; native check before send)
 
 Hei Runa,
 
-[Etter samtalen: Takk for en hyggelig samtale på telefon. Den gjorde meg enda mer motivert til å søke.]
+[Takk for en hyggelig samtale på telefon i dag. Den gjorde meg enda mer motivert til å søke.]
 
-En undervannspumpe som er riktig konstruert, men som står på kaia uten riktig dokumentasjon, hjelper ingen. I graduate-programmet deres går ingeniørarbeid, produksjon, testing og forsyningskjede inn i hverandre. Det er der jeg har jobbet.
+En undervannspumpe som er riktig konstruert, men som står på kaia uten riktig dokumentasjon, hjelper ingen. I graduate-programmet deres går konstruksjon, produksjon, testing og forsyningskjede inn i hverandre. Det er der jeg vil lære.
 
-Jeg er utdannet maskiningeniør, med diplom og bachelor fra Mumbai, og har en master i bærekraftig energilogistikk fra Høgskolen i Molde. På verkstedet konstruerte jeg en hydraulisk krympemaskin i SolidWorks med GD&T og toleranser på ±0,02 mm, og presisjonen økte med 80 prosent. Ved lokomotivverkstedet til Central Railway analyserte jeg vibrasjoner i lokomotivaksler med FFT for å finne utmattingspunkter. Hos STARZZ kvalifiserte jeg leverandører i Kina, Vietnam og Europa der spesifikasjonen ikke kunne fravikes.
+Jeg er maskiningeniør, og jeg har stått på verkstedgulvet. Jeg konstruerte en hydraulisk krympemaskin i SolidWorks med GD&T og toleranser på ±0,02 mm, og presisjonen økte med 80 prosent. Ved lokomotivverkstedet til Central Railway brukte jeg FFT-vibrasjonsanalyse for å finne hvor akslene trengte gløding og spenningsavlastning. Hos STARZZ kvalifiserte jeg leverandører i Kina, Vietnam og Europa der spesifikasjonen ikke kunne fravikes, og koordinerte leveranser på datoer som ikke kunne flyttes.
 
-De fleste nyutdannede kommer med én disiplin. Jeg kommer med den tekniske tegningen i den ene hånden og leveranseplanen i den andre, og jeg vet hva som skjer når de to ikke henger sammen.
+Jeg har ikke jobbet med undervannsprosessering. Det er grunnen til at jeg søker et graduate-program og ikke en ferdig ingeniørstilling. Det jeg tar med meg, er en vane: når jeg ikke forstår noe, bygger jeg det. Da jeg ville forstå godsflyten i Molde, laget jeg en modell av byen i Rhino og Grasshopper. Da masteroppgaven krevde et svar på hvordan data kan slettes og likevel revideres, ble svaret en modell jeg presenterte på NORS 2025.
 
-Masteren har gitt meg offshore energilogistikk, en feltstudie ved NorSea Vestbase i Kristiansund og en forskningspresentasjon på NORS 2025. Jeg har tenkt å bli i Norge: jeg studerer norsk daglig og er aktiv i START Molde og LO-Studentene.
+Jeg har tenkt å bli i Norge. Jeg studerer norsk daglig, sitter i styret i START Molde og LO-Studentene, og har gjort feltstudie ved NorSea Vestbase i Kristiansund.
 
-Jeg forventer å starte fra bunnen i en ny disiplin. De første ukene vil jeg bruke på å lære produktet fra tegning til test sammen med dem som bygger det.
-
-Det jeg vil bidra med, er en graduate som kan sitte i en teknisk gjennomgang om formiddagen og forstå hvorfor leveransen står fast om ettermiddagen.
+Jeg forventer å starte fra bunnen. Om to år vil jeg være den som kan sitte i en designgjennomgang om formiddagen og forstå hvorfor leveransen står fast om ettermiddagen.
 
 Med vennlig hilsen
 Arshad Akhtar Abbasia
 [telefon] · arshad.a.abbasia@himolde.no
 
-## Red-team pass (inline, Nov 2026)
+## Red-team pass v2 (inline, 2026-11-06)
+- Score: 84/100. Verdict: FIX THEN SEND (call first, native check).
+- Fixed from v1: BEM KEK removed (not on trainee CV); "holdt alle leveringsplaner" replaced by verified "datoer som ikke kunne flyttes"; named gap stated once and turned into the reason for applying; potential shown as a pattern with two proofs, not claimed.
+- Mechanical: 0 em dashes, no banned phrases, "graduate" 2x, about 270 words.
+- Open: call (filter 11); 80% measurement answer; 2017 to 2022 gap answer for interview; CV line "Holdt alle leveringsplaner" to verify or soften.
+
+## Red-team pass v1 (inline, Nov 2026)
 - Score: 78/100. Verdict: FIX THEN SEND (call first).
 - Filters: work-right readiness (form may have a checkbox; true answer ready, told in chat); overqualification low for a graduate programme with no experience cap; Norwegian guards met if native check is done; call not yet made (filter 11).
 - P1: be ready to explain how the 80% (crimping) was measured and the FFT method; the panel will ask.
