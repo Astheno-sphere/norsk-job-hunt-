@@ -39,8 +39,8 @@ https://www.linkedin.com/in/arshad-abbasiaa/ · https://github.com/Astheno-spher
 
 ## Utdanning
 - MSc Sustainable Energy Logistics, Høgskolen i Molde, 2024 til 2026. Veileder: Prof. João Ferreira.
-- BSc Maskinteknikk, Mumbai University, 2014 til 2017.
-- Diploma i maskinteknikk, Directorate of Technical Education, Mumbai, 2011 til 2014.
+- Bachelor of Engineering, maskinteknikk, University of Mumbai, 2014 til 2017.
+- Diploma i maskinteknikk, Maharashtra State Board of Technical Education (Thakur Polytechnic), Mumbai, 2011 til 2014.
 
 ## Verktøy
 R, Rhino/Grasshopper, SAP S/4HANA (fullfører MM og PS), MRPeasy, Power BI, Excel, Miro

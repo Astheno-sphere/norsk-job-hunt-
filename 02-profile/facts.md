@@ -12,14 +12,15 @@ Only facts Tiger has confirmed. Personal identifiers are kept out of this public
 ## Education
 - MSc Sustainable Energy Logistics, Høgskolen i Molde, 2024 to 2026 (90 ECTS). Supervisor: Prof. João Ferreira.
   - Relevant modules: Discrete Event Simulation; Operations Strategy, Capacity and Facility Planning; Applications of Scheduling and Timetabling; Port Logistics; Cross-border Logistics; Vehicle Routing; Disaster Relief Operations; Energy Analytics.
-- BSc Mechanical Engineering, Mumbai University, 2014 to 2017.
-- Diploma in Mechanical Engineering, Directorate of Technical Education, Mumbai, 2011 to 2014. Label as "Diploma", not fagbrev.
+- Bachelor of Engineering (BE), Mechanical Engineering, University of Mumbai (Shree L.R. Tiwari College of Engineering), exam May 2017, conferred Feb 2018. Per the degree certificate it is BE, not BSc.
+- Diploma in Mechanical Engineering, Maharashtra State Board of Technical Education (MSBTE), Thakur Polytechnic, Kandivali, Mumbai, 2011 to 2014. First Class with Distinction. Label as "Diploma", not fagbrev.
+- Source documents: transcripts PDF and portfolio PDF (Nov 2026). Originals never committed: the HiMolde transcript prints the fødselsnummer.
 
 ## Experience
 | Role | Org | Story |
 |---|---|---|
 | Supply Chain & Compliance Coordinator | Astorvia (EREA WORLD AG) | Vendor and investor compliance frameworks for DACH datacentre builds, enabling EUR 8M infrastructure funding; supplier due diligence and KYC |
-| Logistics & Operations Coordinator (2 years) | STARZZ LLC | Inbound equipment, event logistics, athlete travel, partner deliveries across DACH; company acquired by Sport1 for EUR 27M |
+| Logistics & Operations Coordinator (2022 to 2024, 2 years) | STARZZ LLC | Inbound equipment, event logistics, athlete travel, partner deliveries across DACH; company acquired by Sport1 for EUR 27M |
 | Logistics & Procurement Coordinator | BEM KEK Technologies Pvt Ltd | Heavy-lift industrial equipment and mechanical components for tenders; 25% OTD improvement via MRPeasy |
 
 Total: about four years cross-border procurement and logistics across DACH, India, UAE.
