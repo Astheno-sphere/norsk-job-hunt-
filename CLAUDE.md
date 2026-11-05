@@ -12,6 +12,9 @@ Master doctrine: `01-doctrine/TIGER_ANIMA_v5.0_UNIFIED.md` (Part 0 and Part 10 o
 - Work authorization is the one risk no wording fixes. State it straight on forms; never imply secured rights.
 - Public repo: no personal identifiers or reference contact details in commits.
 
+## When Tiger pastes a job
+Run `05-playbooks/application-workflow.md` Stage A first (triage verdict in three lines) before writing anything. Red team per `05-playbooks/red-team-protocol.md`; cold agent `.claude/agents/red-team.md` for high-stakes.
+
 ## Token discipline
 - Edit files with diffs; do not rewrite whole documents.
 - Render PDF once, at submit time (Chrome print to PDF, Calibri, full https:// links).

@@ -21,7 +21,9 @@ Single source of truth for Tiger's Norwegian job search. Doctrine, journey, CVs,
 | `02-profile/` | Verified fact base and research assets | Building or checking any claim |
 | `03-cvs/` | CV variants in markdown and the routing rule | Every application |
 | `04-pipeline/` | Applications log, contacts, outreach ledger | Every application, weekly review |
-| `05-playbooks/` | Step-by-step workflows and skip rules | Every application |
+| `05-playbooks/` | Application workflow, red-team protocol (dynamic variables) | Every application |
+| `06-recruiter-intel/` | Sourced Norwegian recruiter tactics and doctrine conflicts | Strategy, red team |
+| `.claude/agents/red-team.md` | Cold red-team agent | High-stakes applications |
 | `templates/` | Job intake template | New posting |
 
 ## Privacy rule for this repo
