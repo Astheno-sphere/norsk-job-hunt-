@@ -219,6 +219,7 @@ Communication style: short direct bursts, dense output, no padding, no flattery,
 7. **Red team is mandatory** after the three voices. Honest ceiling: be failed only on structural risks, never on craft.
 8. **Work authorization:** answer straight on every form; never imply secured rights. Details are not stored in this public repo.
 9. **Applicant contact block** filled from a local file at render time.
+11. **C1 resolved (Tiger, Nov 2026): all CVs in Norwegian bokmål.** Mandatory guards, because Ellis and Ramsli both warn a Norwegian CV can read as overstating fluency: (a) the Språk section always states the true level; (b) native-speaker check before any send; (c) Tiger can speak every line of the CV aloud in Norwegian; (d) if the posting is English-only and the reader is non-Norwegian, an English copy may be attached alongside, never instead.
 10. **CV structure (Ramsli template):** Nøkkelkvalifikasjoner (tailored per ad), Erfaring with MM.YYYY, Utdanning, Kurs og sertifiseringer, Språk, Førerkort, Fritid, Referanser. No birth date, no photo. Norwegian level in Språk only. Fritid = tango and milonga, Molde Swing Club.
 
 ---

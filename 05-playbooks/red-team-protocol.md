@@ -9,7 +9,7 @@ The red team changes its weights by the job. Step 1 sets the variables from the 
 | `role_tier` | trainee / coordinator / specialist / strategic | Overqualification weight, letter altitude, page count |
 | `company_style` | traditional-NO / international / public-sector / startup | Personal details, tone, photo, hobbies (C3) |
 | `working_language` | NO-required / NO-preferred / EN | Language gate, CV language (C1) |
-| `cv_language_risk` | low / medium / high | Norwegian CV with sub-B1 level against a Norwegian ad = high |
+| `cv_language_risk` | low / medium / high | All CVs are Norwegian (Part 10.11). High when the role needs daily spoken Norwegian: check the four guards are met, never block on it |
 | `experience_cap` | none / total-years / post-grad-years | Which roles may appear; STARZZ-only vs procurement back in |
 | `sponsorship_stance` | stated-yes / silent / stated-no | Kill filter weight; stated-no = recommend skip |
 | `channel` | warm / recruiter / kontaktperson / portal | Whether a pre-apply call or note is mandatory |

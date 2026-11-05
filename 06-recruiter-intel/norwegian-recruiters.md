@@ -53,7 +53,7 @@ Two pages is normal and acceptable. Airy, clear timeline, no glossy design outsi
 
 | # | Recruiter says | ANIMA says | Risk | Proposed resolution |
 |---|---|---|---|---|
-| C1 | Ellis: write the CV in English if Norwegian is below B1/B2; a Norwegian CV may read as misrepresenting your level | v4.3: Norwegian bokmål CV by default | Real. A bokmål CV plus a phone call in English is the exact cheque-the-voice-cannot-cash problem | Route by posting: English ad or international firm = English CV. Norwegian ad = Norwegian CV allowed only with the language line visible on the CV and a native check. Red-team variable `cv_language_risk` scores it every time. **Tiger to confirm.** |
+| C1 | Ellis: write the CV in English if Norwegian is below B1/B2; a Norwegian CV may read as misrepresenting your level | v4.3: Norwegian bokmål CV by default | Real. A bokmål CV plus a phone call in English is the exact cheque-the-voice-cannot-cash problem | **RESOLVED Nov 2026 by Tiger: Norwegian for all.** Guards in ANIMA Part 10 item 11: true level in Språk, native check, every line speakable, optional English copy for English-only readers. |
 | C2 | Ellis: consider "we" for team achievements, shows team player | "we" banned in achievement stories | Medium | Keep "I" for what you did; allow one "vi/we" sentence for team context. **Tiger to confirm.** |
 | C3 | Ellis: include birth date, marital status, hobbies | Duong (international firms): omit them | Depends on firm | Variable `company_style`: traditional Norwegian = add hobbies and a short personal line; international = strip. Never ID number either way. |
 | C4 | Two pages normal | One-page hard limit for operational/coordinator roles | Low | Keep one page for operational; allow two for trainee and specialist. |
