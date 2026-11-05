@@ -4,7 +4,7 @@ Pick the variant before writing the letter. The letter may only cite roles on th
 
 | Variant | File | Shows | Send to |
 |---|---|---|---|
-| Trainee (NO) | `trainee-no.md` | STARZZ only, Norwegian anchors, research light | Trainee programmes with an under-3-years expectation (VARD, Geminor, Cambi type) |
+| Trainee (NO, designed, 1 page) | `design/cv-trainee-no.html` (content notes in `trainee-no.md`) | STARZZ only, Norwegian anchors, research light | Trainee programmes with an under-3-years expectation (VARD, Geminor, Cambi type) |
 | Procurement trainee (NO) | trainee-no.md + Astorvia and BEM KEK entries | Procurement roles back in | Programmes whose experience cap counts only post-graduation years (OKEA type) |
 | Full experience (EN) | `full-en.md` (to build, optional) | All three roles, START Molde BD | Attachment only, alongside the Norwegian CV, for English-only readers |
 | Master (NO, designed) | `design/cv-master-no.html` | All three roles, Norwegian anchors, engineering projects, research, 2 pages, charcoal and oxblood | Default for logistics, port, transport, procurement, supply chain and technical/engineering roles |
