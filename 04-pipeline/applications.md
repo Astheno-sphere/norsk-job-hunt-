@@ -25,6 +25,7 @@ One row per application. Status: drafting, sent, acknowledged, interview, offer,
 | 2026-10 | Microsoft, PwC, Anticimex, Subsea7, Star Information Systems, ECN, Nofir, Nortek, hydropower trainee | various | portal | various | [confirm] | split into rows when confirmed |
 | 2026-10 | OneSubsea | Graduate | portal | full | [confirm] | same posting as FINN 477189644? |
 | 2026-10 | SLB | Graduate | | | skipped | no-sponsorship clause (rule changed Nov 2026: no longer a skip) |
+| 2026-11-05 | OneSubsea | 2027 Graduate Engineer Trainee, Sandsli (FINN 477189644) | kontaktperson | master NO | drafting | call Runa Linn Slettjord first; see jobs/ |
 | 2026-11 | HiMolde | TRANSPLAN PhD | direct | academic | [confirm] | deadline 1.11.2026 |
 
 ## Skipped (with reason)

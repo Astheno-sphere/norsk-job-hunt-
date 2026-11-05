@@ -1,2 +1,4 @@
 .private/
 *.local.md
+03-cvs/design/fonts/
+*.pdf
