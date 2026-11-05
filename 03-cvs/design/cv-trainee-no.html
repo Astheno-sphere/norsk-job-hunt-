@@ -4,119 +4,170 @@
 <meta charset="utf-8">
 <title>CV Arshad Akhtar Abbasia</title>
 <style>
-@font-face{font-family:"Montserrat";font-weight:600;src:url(fonts/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2)}
-@font-face{font-family:"Montserrat";font-weight:700;src:url(fonts/@fontsource/montserrat/files/montserrat-latin-700-normal.woff2)}
-@font-face{font-family:"Montserrat";font-weight:800;src:url(fonts/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2)}
-@font-face{font-family:"Source Serif 4";font-weight:400;src:url(fonts/@fontsource/source-serif-4/files/source-serif-4-latin-400-normal.woff2)}
-@font-face{font-family:"Source Serif 4";font-weight:400;font-style:italic;src:url(fonts/@fontsource/source-serif-4/files/source-serif-4-latin-400-italic.woff2)}
-@font-face{font-family:"Source Serif 4";font-weight:600;src:url(fonts/@fontsource/source-serif-4/files/source-serif-4-latin-600-normal.woff2)}
-@font-face{font-family:"Source Serif 4";font-weight:700;src:url(fonts/@fontsource/source-serif-4/files/source-serif-4-latin-700-normal.woff2)}
+@font-face{font-family:SG;font-weight:400;src:url(fonts/@fontsource/schibsted-grotesk/files/schibsted-grotesk-latin-400-normal.woff2)}
+@font-face{font-family:SG;font-weight:400;font-style:italic;src:url(fonts/@fontsource/schibsted-grotesk/files/schibsted-grotesk-latin-400-italic.woff2)}
+@font-face{font-family:SG;font-weight:500;src:url(fonts/@fontsource/schibsted-grotesk/files/schibsted-grotesk-latin-500-normal.woff2)}
+@font-face{font-family:SG;font-weight:600;src:url(fonts/@fontsource/schibsted-grotesk/files/schibsted-grotesk-latin-600-normal.woff2)}
+@font-face{font-family:SG;font-weight:700;src:url(fonts/@fontsource/schibsted-grotesk/files/schibsted-grotesk-latin-700-normal.woff2)}
+@font-face{font-family:SG;font-weight:900;src:url(fonts/@fontsource/schibsted-grotesk/files/schibsted-grotesk-latin-900-normal.woff2)}
 
-:root{--ink:#221d1e;--body:#3b3536;--mute:#756c6e;--ox:#6d1f2b;--hair:#d9d1d2;--tint:#f7f1f1}
+:root{
+  --ink:#231e1f;     /* charcoal: name, titles */
+  --text:#2c2627;    /* body: dark, never grey */
+  --date:#4f4648;    /* dates and secondary, still AA on white at 9pt */
+  --ox:#7a1c2a;      /* oxblood: structure only */
+  --line:#b9aeb0;
+}
 @page{size:A4;margin:0}
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:"Source Serif 4",serif;font-size:9pt;line-height:1.34;color:var(--body);font-variant-ligatures:none;font-feature-settings:"liga" 0;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+body{font-family:SG,sans-serif;font-size:9.8pt;line-height:1.34;color:var(--text);font-variant-ligatures:none;font-feature-settings:"liga" 0;-webkit-print-color-adjust:exact;print-color-adjust:exact}
 a{color:inherit;text-decoration:none}
-.page{width:210mm;height:297mm;padding:11mm 14mm 0;position:relative;overflow:hidden}
+b,strong{font-weight:700;color:var(--ink)}
+.page{width:210mm;height:297mm;padding:12mm 15mm 0 15mm;position:relative;overflow:hidden}
 
-.name{font-family:Montserrat;font-weight:800;font-size:23pt;letter-spacing:.02em;color:var(--ink);line-height:1}
-.name span{color:var(--ox)}
-.role{font-family:Montserrat;font-weight:600;font-size:8.8pt;letter-spacing:.03em;color:var(--ink);margin-top:2.4mm;text-transform:uppercase}
-.contact{font-family:Montserrat;font-weight:600;font-size:8pt;color:var(--mute);margin-top:2.2mm}
-.contact .sep{color:var(--ox);padding:0 1.6mm}
-.rule{height:.7mm;background:var(--ox);margin:3mm 0 2.6mm}
-.profil{font-size:9.3pt;color:var(--ink)}
+/* header */
+.head{display:grid;grid-template-columns:1fr auto;align-items:end;gap:6mm}
+.name{font-weight:900;font-size:27pt;line-height:.92;letter-spacing:-.01em;color:var(--ink)}
+.title{font-weight:500;font-size:11pt;color:var(--ox);margin-top:2.4mm}
+.contact{text-align:right;font-size:9.2pt;line-height:1.45;color:var(--text)}
+.contact b{font-weight:600}
 
-h2{font-family:Montserrat;font-weight:700;font-size:8.4pt;letter-spacing:.05em;text-transform:uppercase;color:var(--ox);margin:3.6mm 0 1.5mm;padding-bottom:1mm;border-bottom:.25mm solid var(--hair)}
+/* route line: the one memorable element */
+.route{position:relative;margin:5mm 0 5mm;height:15mm}
+.route .track{position:absolute;left:2mm;right:2mm;top:2.2mm;height:1.1mm;background:var(--ox)}
+.stops{position:relative;display:flex;justify-content:space-between}
+.stop{width:30mm;text-align:center}
+.stop:first-child{text-align:left}
+.stop:last-child{text-align:right}
+.dot{width:5.4mm;height:5.4mm;border-radius:50%;background:#fff;border:1.1mm solid var(--ox);margin:0 auto}
+.stop:first-child .dot{margin:0}
+.stop:last-child .dot{margin:0 0 0 auto}
+.stop.now .dot{background:var(--ox)}
+.stop .l{font-weight:700;font-size:8.8pt;color:var(--ink);margin-top:1.3mm;line-height:1.15}
+.stop .y{font-size:8.4pt;color:var(--date)}
 
+/* grid sections */
+.sec{display:grid;grid-template-columns:25mm 1fr;gap:0 5mm;margin-top:3.4mm}
+.sec>h2{font-weight:700;font-size:10.5pt;color:var(--ox);line-height:1.3}
+.profil{font-size:10.2pt;color:var(--ink);line-height:1.4}
+
+.entry+.entry{margin-top:2.4mm}
+.eh{display:flex;justify-content:space-between;align-items:baseline;gap:4mm}
+.et{font-weight:700;font-size:10.4pt;color:var(--ink)}
+.eo{font-weight:500}
+.ed{font-weight:600;font-size:9.2pt;color:var(--date);white-space:nowrap}
+.ec{font-style:italic;color:var(--date);margin:.4mm 0 .6mm}
 ul{list-style:none}
-li{position:relative;padding-left:3.4mm;margin:.55mm 0}
-li::before{content:"";position:absolute;left:0;top:2mm;width:1.3mm;height:.3mm;background:var(--ox)}
-
-.pivot{border:.3mm solid var(--hair);border-left:1.2mm solid var(--ox);background:var(--tint);padding:3mm 4mm}
-.row{display:flex;justify-content:space-between;align-items:baseline;gap:4mm}
-.t{font-family:Montserrat;font-weight:700;font-size:9.6pt;color:var(--ink)}
-.org{font-weight:600;color:var(--ox)}
-.d{font-family:Montserrat;font-weight:600;font-size:8.2pt;color:var(--ink);white-space:nowrap}
-.ctx{font-style:italic;color:var(--mute);margin:.6mm 0 .4mm}
+li{position:relative;padding-left:4mm;margin:.5mm 0}
+li::before{content:"";position:absolute;left:0;top:2.1mm;width:1.7mm;height:1.7mm;background:var(--ox)}
 .num{font-weight:700;color:var(--ink)}
-.src{font-size:8.3pt;color:var(--mute);margin-top:1mm}
 .link{color:var(--ox);font-weight:600}
-
-.two{display:grid;grid-template-columns:1fr 1fr;gap:0 7mm}
-.item{margin-bottom:1.2mm}
-.edu{display:grid;grid-template-columns:20mm 1fr;gap:.9mm 3mm}
-.yr{font-family:Montserrat;font-weight:600;font-size:8.2pt;color:var(--ox)}
-.small{font-size:8.5pt;color:var(--mute)}
-.port{border:.3mm solid var(--ink);padding:2.2mm 3.4mm;margin-top:2mm}
-.port b{font-family:Montserrat;font-weight:700;font-size:8.4pt;color:var(--ink)}
-.kv{display:grid;grid-template-columns:19mm 1fr;gap:.6mm 3mm}
-.kv dt{font-family:Montserrat;font-weight:700;font-size:8pt;color:var(--ink)}
+.note{margin-top:1.4mm;padding-left:3mm;border-left:1.1mm solid var(--ox);font-size:9.4pt}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:0 6mm}
+.edu{display:grid;grid-template-columns:18mm 1fr;gap:.9mm 3mm}
+.edu .y{font-weight:600;font-size:9.2pt;color:var(--date)}
+.sub{font-size:9.2pt;color:var(--date)}
+dl.kv{display:grid;grid-template-columns:18mm 1fr;gap:.5mm 3mm}
+dl.kv dt{font-weight:700;color:var(--ink)}
 </style>
 </head>
 <body>
 <section class="page">
-  <div class="name">ARSHAD AKHTAR <span>ABBASIA</span></div>
-  <div class="role">Logistikk og forsyningskjede · Maskiningeniør · MSc Sustainable Energy Logistics</div>
-  <div class="contact">Molde<span class="sep">/</span>[TELEFON]<span class="sep">/</span><a href="mailto:arshad.a.abbasia@himolde.no">arshad.a.abbasia@himolde.no</a><span class="sep">/</span><a href="https://github.com/Astheno-sphere">https://github.com/Astheno-sphere</a></div>
-  <div class="contact" style="margin-top:1mm">Registrert i Folkeregisteret (norsk fødselsnummer)</div>
-  <div class="rule"></div>
 
-  <p class="profil">Maskiningeniør med master i bærekraftig energilogistikk fra Høgskolen i Molde og to års erfaring med logistikk, innkjøp og leverandøroppfølging i DACH og UAE. Strukturert, kvalitetsbevisst og vant til frister som ikke kan flyttes. Søker et traineeprogram der jeg kan lære driften fra grunnen av og vokse i stillingen.</p>
-
-  <h2>Erfaring</h2>
-  <div class="pivot">
-    <div class="row"><div><span class="t">Logistikk- og driftskoordinator</span> · <span class="org">STARZZ LLC, DACH og UAE</span></div><span class="d">2022–2024</span></div>
-    <div class="ctx">Arrangements- og leveranselogistikk på datoer som ikke kunne flyttes, i et selskap i rask vekst.</div>
-    <ul>
-      <li>Planla innkommende utstyrsforsendelser, utøverreiser og partnerleveranser, og koordinerte sjåfører, mannskap og partnere daglig.</li>
-      <li>Kjøpte inn fra produsenter i Kina, Vietnam og Europa, og kvalifiserte leverandører der spesifikasjonen ikke kunne fravikes: utstyret ble brukt av utøvere på nasjonal TV.</li>
-      <li>Holdt alle leveringsplaner gjennom vekstfasen, fram til oppkjøpet av Sport1 (<span class="num">EUR 27 mill.</span>). Dokumentert som case 06 i porteføljen.</li>
-    </ul>
-  </div>
-
-  <h2>Norsk forankring</h2>
-  <div class="two">
-    <div class="item"><span class="t">START Molde</span> · <span class="org">styremedlem og forretningsutvikling</span>, jan 2026–nå<br>Bygde og trente et partnerteam. Partnere: Møre og Romsdal fylkeskommune, Kvæfjord kommune, Aprikos Venture og EcoTrain. Støttet av Protomore Labs.</div>
-    <div class="item"><span class="t">LO-Studentene, Høgskolen i Molde</span> · <span class="org">styremedlem 2025–nå</span>, økonomiansvarlig 2024–2025<br>Budsjett, studentarrangementer og bedriftsbesøk.</div>
-  </div>
-
-  <h2>Forskning og prosjekter</h2>
-  <ul>
-    <li><b>Masteroppgave: TRF-modellen (VERA-SNARK)</b>, verifiserbar sletting i grenseoverskridende revisjonsspor mellom Norge og EU. Presentert på NORS 2025. <a class="link" href="https://github.com/Astheno-sphere/TRF">https://github.com/Astheno-sphere/TRF</a></li>
-    <li><b>Feltstudie</b> ved NorSea Vestbase, Kristiansund. <b>Egne modeller</b> av godsflyt og ruter i Molde (Rhino/Grasshopper).</li>
-  </ul>
-  <div class="port"><b>Portefølje vedlagt: «Documenting journey».</b> Sju dokumenterte caser fra verkstedgulvet til transportsystemet: konstruksjon og DFM (SolidWorks, GD&amp;T), NDT, prototyper og Molde-modellene.</div>
-
-  <h2>Utdanning</h2>
-  <div class="edu">
-    <div class="yr">2024–2026</div><div><b>MSc Sustainable Energy Logistics</b>, Høgskolen i Molde. Veileder: Prof. João Ferreira.<br><span class="small">Emner: Port Logistics, Cross-border Logistics, Offshore Energy Logistics Planning, Transportation and Distribution, Energy Analytics, Blockchain in Supply Chain.</span></div>
-    <div class="yr">2014–2017</div><div><b>Bachelor of Engineering, maskinteknikk</b>, University of Mumbai</div>
-    <div class="yr">2011–2014</div><div><b>Diploma i maskinteknikk</b>, MSBTE (Thakur Polytechnic), Mumbai. First Class with Distinction.</div>
-  </div>
-
-  <div class="two">
+  <header class="head">
     <div>
-      <h2>Kurs og sertifiseringer</h2>
+      <div class="name">Arshad Akhtar<br>Abbasia</div>
+      <div class="title">Logistikk og forsyningskjede, maskiningeniør</div>
+    </div>
+    <div class="contact">
+      <b>Molde</b><br>
+      [TELEFON]<br>
+      <a href="mailto:arshad.a.abbasia@himolde.no">arshad.a.abbasia@himolde.no</a><br>
+      <a href="https://github.com/Astheno-sphere">https://github.com/Astheno-sphere</a><br>
+      Registrert i Folkeregisteret (norsk fødselsnummer)
+    </div>
+  </header>
+
+  <div class="route" aria-label="Utdanning og erfaring i rekkefølge">
+    <div class="track"></div>
+    <div class="stops">
+      <div class="stop"><div class="dot"></div><div class="l">Diploma<br>maskinteknikk</div><div class="y">2011–2014</div></div>
+      <div class="stop"><div class="dot"></div><div class="l">Bachelor of<br>Engineering</div><div class="y">2014–2017</div></div>
+      <div class="stop"><div class="dot"></div><div class="l">STARZZ<br>logistikk</div><div class="y">2022–2024</div></div>
+      <div class="stop"><div class="dot"></div><div class="l">MSc<br>Høgskolen i Molde</div><div class="y">2024–2026</div></div>
+      <div class="stop now"><div class="dot"></div><div class="l">START Molde<br>og trainee</div><div class="y">2026–</div></div>
+    </div>
+  </div>
+
+  <div class="sec"><h2>Profil</h2>
+    <p class="profil">Maskiningeniør med master i bærekraftig energilogistikk og to års erfaring med logistikk, innkjøp og leverandøroppfølging i DACH og UAE. Strukturert og kvalitetsbevisst, vant til frister som ikke kan flyttes. Søker et traineeprogram der jeg kan lære driften fra grunnen av og vokse i stillingen.</p>
+  </div>
+
+  <div class="sec"><h2>Erfaring</h2>
+    <div>
+      <div class="entry">
+        <div class="eh"><div><span class="et">Logistikk- og driftskoordinator</span>, <span class="eo">STARZZ LLC, DACH og UAE</span></div><span class="ed">2022–2024</span></div>
+        <div class="ec">Leveranselogistikk på datoer som ikke kunne flyttes, i et selskap i rask vekst.</div>
+        <ul>
+          <li>Planla innkommende utstyrsforsendelser, utøverreiser og partnerleveranser, og koordinerte sjåfører, mannskap og partnere daglig.</li>
+          <li>Kjøpte inn fra produsenter i Kina, Vietnam og Europa, og kvalifiserte leverandører der spesifikasjonen ikke kunne fravikes: utstyret ble brukt av utøvere på nasjonal TV.</li>
+          <li>Holdt alle leveringsplaner fram til oppkjøpet av Sport1 (<span class="num">EUR 27 mill.</span>).</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="sec"><h2>I Norge</h2>
+    <div>
+      <div class="entry">
+        <div class="eh"><div><span class="et">START Molde</span>, <span class="eo">styremedlem og forretningsutvikling</span></div><span class="ed">jan 2026–nå</span></div>
+        <div>Bygde og trente et partnerteam. Partnere: Møre og Romsdal fylkeskommune, Kvæfjord kommune, Aprikos Venture og EcoTrain. Støttet av Protomore Labs.</div>
+      </div>
+      <div class="entry">
+        <div class="eh"><div><span class="et">LO-Studentene, Høgskolen i Molde</span>, <span class="eo">styremedlem</span></div><span class="ed">2024–nå</span></div>
+        <div>Økonomiansvarlig 2024–2025: budsjett, studentarrangementer og bedriftsbesøk.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sec"><h2>Forskning</h2>
+    <div>
       <ul>
-        <li>Google Project Management (Lean Six Sigma, Agile), 2022 · <a class="link" href="https://www.coursera.org/account/accomplishments/specialization/RQR6KV4JQNBZ">verifiser</a></li>
-        <li>Fleet Management (Alison, 2026) · <a class="link" href="https://alison.com/verify/441daf2739">verifiser</a></li>
-        <li>Mastering Supply Chain and Logistics (Alison, 2026) · <a class="link" href="https://alison.com/verify/934294180b">verifiser</a></li>
+        <li><b>Masteroppgave: TRF-modellen (VERA-SNARK)</b>, presentert på NORS 2025. <a class="link" href="https://github.com/Astheno-sphere/TRF">https://github.com/Astheno-sphere/TRF</a></li>
+        <li><b>Feltstudie</b> ved NorSea Vestbase, Kristiansund, og <b>egne modeller</b> av godsflyt og ruter i Molde (Rhino/Grasshopper).</li>
       </ul>
-      <h2>Verktøy</h2>
-      <p>SAP S/4HANA (fullfører MM og PS), MRPeasy, Excel, Power BI, R, AMPL, SolidWorks, Rhino/Grasshopper, Miro, Jira</p>
-    </div>
-    <div>
-      <h2>Personlig</h2>
-      <dl class="kv">
-        <dt>Språk</dt><dd>Engelsk: flytende · Hindi og urdu: morsmål · Marathi: muntlig · Norsk: tidlig samtalenivå, studerer daglig, mål B1 innen utgangen av 2026</dd>
-        <dt>Førerkort</dt><dd>Klasse B (India)</dd>
-        <dt>Fritid</dt><dd>Tango og milonga, Molde Swing Club (Kulturhuset)</dd>
-      </dl>
-      <h2>Referanser</h2>
-      <p>Prof. João Ferreira (veileder, Høgskolen i Molde) · Agaraoli Aravazhi (postdoktor, Høgskolen i Molde) · Lasse Kristiansen (Protomore Labs) · Heidi Rudaa (NLF Region 5). Kontaktinformasjon oppgis på forespørsel.</p>
+      <div class="note"><b>Portefølje vedlagt, «Documenting journey»:</b> sju caser fra verkstedgulvet til transportsystemet: konstruksjon og DFM i SolidWorks med GD&amp;T, NDT av lokomotivaksler, STARZZ (case 06).</div>
     </div>
   </div>
+
+  <div class="sec"><h2>Utdanning</h2>
+    <div class="edu">
+      <div class="y">2024–2026</div><div><b>MSc Sustainable Energy Logistics</b>, Høgskolen i Molde (veileder Prof. João Ferreira)<br><span class="sub">Port Logistics, Cross-border Logistics, Offshore Energy Logistics Planning, Transportation and Distribution, Energy Analytics, Blockchain in Supply Chain.</span></div>
+      <div class="y">2014–2017</div><div><b>Bachelor of Engineering, maskinteknikk</b>, University of Mumbai</div>
+      <div class="y">2011–2014</div><div><b>Diploma i maskinteknikk</b>, MSBTE (Thakur Polytechnic), First Class with Distinction</div>
+    </div>
+  </div>
+
+  <div class="sec"><h2>Kurs</h2>
+    <div>Google Project Management, Lean Six Sigma og Agile (2022, <a class="link" href="https://www.coursera.org/account/accomplishments/specialization/RQR6KV4JQNBZ">verifiser</a>). Fleet Management (Alison 2026, <a class="link" href="https://alison.com/verify/441daf2739">verifiser</a>). Mastering Supply Chain and Logistics (Alison 2026, <a class="link" href="https://alison.com/verify/934294180b">verifiser</a>).</div>
+  </div>
+
+  <div class="sec"><h2>Verktøy</h2>
+    <div>SAP S/4HANA (fullfører MM og PS), MRPeasy, Excel, Power BI, R, AMPL, SolidWorks, Rhino/Grasshopper, Miro, Jira</div>
+  </div>
+
+  <div class="sec"><h2>Språk</h2>
+    <div>Engelsk flytende. Hindi og urdu morsmål. Marathi muntlig. Norsk: tidlig samtalenivå, studerer daglig, mål B1 innen utgangen av 2026.</div>
+  </div>
+
+  <div class="sec"><h2>Ellers</h2>
+    <div>Førerkort klasse B (India). Fritid: tango og milonga i Molde Swing Club (Kulturhuset).</div>
+  </div>
+
+  <div class="sec"><h2>Referanser</h2>
+    <div>Prof. João Ferreira (veileder, Høgskolen i Molde), Agaraoli Aravazhi (postdoktor, Høgskolen i Molde), Lasse Kristiansen (Protomore Labs), Heidi Rudaa (NLF Region 5). Kontaktinformasjon oppgis på forespørsel.</div>
+  </div>
+
 </section>
 </body>
 </html>

@@ -178,6 +178,8 @@ Map profile to where the company is GOING. Frame research assets as a preview of
 
 ## PART 6: DESIGN SYSTEM
 
+**Nov 2026 CV system (supersedes the ATS line below for designed CVs):** Schibsted Grotesk only (Norwegian newsroom face), body 9.8 to 10pt in charcoal #2c2627, oxblood #7a1c2a for structure only, white paper. Scandinavian grid: section names in a 25mm left column, sentence case. One memorable element: the route line (Diploma, BE, STARZZ, MSc, START Molde). Banned as AI tells: all-caps tracked labels, middle-dot meta strings, tinted cards, pill tags, hairlines everywhere, grey body text, Montserrat/Source Serif defaults. Template: `03-cvs/design/cv-trainee-no.html`.
+
 - **Presentation / brief documents:** Caladea (display) + Carlito (body); navy (#1B3A52) + amber "on-time signal" accent (#C8781E); left-spine callout boxes; eyebrow labels; generous line spacing.
 - **ATS CVs:** Calibri, single column, navy header band, teal section markers, verify links inline.
 - Export: print to PDF via Chrome (never Word's Export as PDF). Fonts embed; verify with pdffonts. Full https:// links always.
