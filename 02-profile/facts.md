@@ -47,6 +47,7 @@ Total: about four years cross-border procurement and logistics across DACH, Indi
 ## Languages and personal
 - English: fluent, oral and written (Tiger: top level).
 - Norwegian: early conversational, studying daily, targeting B1 by end of 2026.
+- Hindi and Urdu: mother tongue. Marathi: speaks and understands. Sindhi and Punjabi: understands only (keep off CVs unless the role values it).
 - Hobby: tango and milonga at Molde Swing Club (Kulturhuset). Use as the active-hobby line (Ramsli).
 - Birth date: not printed on CVs (decision Nov 2026).
 

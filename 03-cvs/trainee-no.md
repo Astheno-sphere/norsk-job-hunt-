@@ -51,6 +51,8 @@ R, Rhino/Grasshopper, SAP S/4HANA (fullfører MM og PS), MRPeasy, Power BI, Exce
 
 ## Språk
 - Engelsk: flytende, muntlig og skriftlig
+- Hindi og urdu: morsmål
+- Marathi: muntlig
 - Norsk: tidlig samtalenivå, studerer daglig, mål B1 innen utgangen av 2026
 
 ## Førerkort
