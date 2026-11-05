@@ -28,7 +28,7 @@ Print the variable block at the top of every review.
 7. Missing commitment signal: no stay/learning-Norwegian/why-Norway line (Thorsdottir).
 8. Unverifiable claim: anything Tiger cannot defend for five minutes.
 9. Generic: could this letter go to ten companies unchanged?
-10. Task-word miss: fewer than half the posting's task words reflected.
+10. Task-word / ATS miss: fewer than half the posting's task words and ATS keywords reflected, or a quality word used without a proof line (`alisa-free-files.md`).
 11. No call made: ad names a contact person and the letter shows no sign of a call (Ramsli). Weight x2 for portal channel.
 
 ## Step 3: Score

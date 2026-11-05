@@ -24,6 +24,8 @@ Copy to `04-pipeline/jobs/YYYY-MM-DD-company-role.md`. Paste the full posting at
 
 ## Reading
 - Their task words (verbatim):
+- ATS keywords (top 15 from the ad; tools, certs, qualities; see `06-recruiter-intel/alisa-free-files.md`):
+- ATS system used (Webcruiter, Jobbnorge, Teamtailor, ReachMee...):
 - Their L2 pain (one sentence):
 - CV variant:
 - STARZZ mode:
