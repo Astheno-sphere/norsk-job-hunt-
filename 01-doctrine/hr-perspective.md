@@ -3,7 +3,7 @@
 What a Norwegian screener sees in six seconds, and why they pass. Based on the October 2026 red team of the trainee CV.
 
 ## Standing liabilities (the "why HR wouldn't hire me" list)
-1. Work authorization unresolved. Biggest auto-filter for most screeners. Signalling Folkeregisteret registration can read as implying work rights; never leave that implication standing.
+1. Work authorization. Biggest auto-filter for most screeners. We do not raise it; we make sure the true answer is ready if a form or interviewer asks.
 2. Norwegian below B1. Hard gate for roles listing B2.
 3. Overqualification reads as flight risk. MSc plus a formal thesis plus a computational GitHub on an entry-level application reads "will leave in twelve months". The better the GitHub, the worse this gets on a trainee CV.
 4. Scatter. Health-data cryptography, fleet telematics, battery landscapes, datacentre logistics, rail prefeasibility. A screener needs one clear "what is this person".
@@ -23,6 +23,5 @@ Commercial curiosity, follow-through, someone who thrives built-from-scratch in 
 ## Hard mismatches: skip, do not apply
 - Norwegian-fluency sales or phone roles.
 - Roles needing a credential he does not hold (nautical, geology).
-- Graduate programmes with explicit no-sponsorship clauses, until authorization is independent.
 - Senior P&L or executive roles (level mismatch).
 - Part-time seasonal field roles unless deliberately chosen as an anchor.

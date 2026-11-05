@@ -11,7 +11,7 @@ Logic: Norwegian hiring is partly personal; the contact person and phone number 
 - Step 3, reference the call in the letter: thank them for the conversation and say it made you more motivated to apply.
 - Write three sentences down before calling. Recruiters talk to internationals all the time.
 
-**Tiger adaptation:** he is in Norway, so skip the moving line. Replace "do you take candidates from abroad" with the honest sponsorship/permit question when relevant. Use the answer to "what matters most" as the letter's L2 pain, in their words.
+**Tiger adaptation:** he is in Norway, so skip the moving line. Drop "do you take candidates from abroad"; do not raise permits on the call. Use the answer to "what matters most" as the letter's L2 pain, in their words.
 
 ## 2. Silence after applying
 - Many Norwegian firms do not open applications until after the søknadsfrist. Give it 1 to 2 weeks after the deadline.

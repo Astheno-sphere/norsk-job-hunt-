@@ -9,7 +9,7 @@ Master doctrine: `01-doctrine/TIGER_ANIMA_v5.0_UNIFIED.md` (Part 0 and Part 10 o
 - Channel precedence: warm outreach > recruiter inbound > cold portal. Five warm, well-fit applications a week beat fifty cold.
 - Letter and CV must tell the same story: no role in a letter that is missing from the CV sent with it.
 - Every application gets the constructive lenses (Raahul, Anna, Leanne) AND a red-team pass. They do opposite jobs. See `01-doctrine/lenses.md`.
-- Work authorization is the one risk no wording fixes. State it straight on forms; never imply secured rights.
+- Work-right rule (Nov 2026, Tiger): never volunteer permit status in a CV, letter or call. If a form or a person asks directly, answer truthfully for that moment; never "yes" unless the right is held at that moment. A stated no-sponsorship clause is not a skip: apply when the right is expected by the start date. Details stay out of this public repo.
 - Public repo: no personal identifiers or reference contact details in commits.
 
 ## When Tiger pastes a job

@@ -11,7 +11,7 @@ Only facts Tiger has confirmed. Personal identifiers are kept out of this public
 
 ## Education
 - MSc Sustainable Energy Logistics, Høgskolen i Molde, 2024 to 2026 (90 ECTS). Supervisor: Prof. João Ferreira.
-  - Relevant modules: Discrete Event Simulation; Operations Strategy, Capacity and Facility Planning; Applications of Scheduling and Timetabling; Port Logistics; Cross-border Logistics; Vehicle Routing; Disaster Relief Operations; Energy Analytics.
+  - Credited courses and seminars: see `education-record.md`. Never mix the two lists.
 - Bachelor of Engineering (BE), Mechanical Engineering, University of Mumbai (Shree L.R. Tiwari College of Engineering), exam May 2017, conferred Feb 2018. Per the degree certificate it is BE, not BSc.
 - Diploma in Mechanical Engineering, Maharashtra State Board of Technical Education (MSBTE), Thakur Polytechnic, Kandivali, Mumbai, 2011 to 2014. First Class with Distinction. Label as "Diploma", not fagbrev.
 - Source documents: transcripts PDF and portfolio PDF (Nov 2026). Originals never committed: the HiMolde transcript prints the fødselsnummer.
@@ -60,5 +60,5 @@ Total: about four years cross-border procurement and logistics across DACH, Indi
 
 ## Open questions to confirm
 - RESOLVED Nov 2026: STARZZ = 2 years (Tiger confirmed).
-- LO-Studentene dates: an older draft had styremedlem 2024 and økonomiansvarlig 2023/24; the current record says 2025 and 2024 to 2025. Current record used here.
+- RESOLVED: LO-Studentene Økonomiansvarlig 2024 to 2025, styremedlem from 2025.
 - STARZZ episode for Mode 2: one real week where something almost broke and what you did.

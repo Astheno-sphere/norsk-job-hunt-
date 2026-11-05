@@ -72,12 +72,13 @@ Current files:
 - Scarcity: never "available immediately". Use the city alone, or "selectively exploring roles in Norway."
 
 **HiMolde module deployment map (match modules to application angle):**
-- Offshore: Offshore Energy Logistics Planning, Offshore Upstream Logistics, Vehicle Routing.
-- Procurement: Procurement in Projects, Incoterms, SC Finance.
-- Tech/AI/modernisation: Agentic AI in Logistics (standout), RFID/IoT.
-- Defence: Disaster Relief SC, Scenario Planning.
-- Scheduling: Decision Modeling, Computational Optimization.
-- Green energy: Renewable Energy Value Chain, CCS, Energy Transitions.
+*(Credited courses are on the transcript; anything marked (s) is a seminar or self-study, not credited, and must be labelled that way wherever it appears. See `02-profile/education-record.md`.)*
+- Offshore: Offshore Energy Logistics Planning, Offshore Upstream Logistics (s), Vehicle Routing.
+- Procurement: Procurement in Projects (s), Incoterms (s), SC Finance (s).
+- Tech/AI/modernisation: Agentic AI in Logistics (s), Blockchain in Supply Chain, Digital Service Design, RFID/IoT (s).
+- Defence: Disaster Relief Operations and Supply Chain, Scenario Planning (s).
+- Scheduling: Decision Modeling (s), Computational Optimization (s), Discrete Event Simulation (s).
+- Green energy: Economics of Energy Value Chains, Energy Analytics and Sustainable Technologies, Digital Technologies for a Sustainable Circular Economy, CCS (s), Energy Transitions (s).
 - Thesis roles: VERA-SNARK, NORS 2025.
 
 **Deployment routing:** portal/ATS → Master (EN or NO by posting language). Temp agency / NAV / Norwegian-first → Norsk Master. Warm human / interview follow-up → Presentation. Trainee programmes → Trainee CV (Part 10).
@@ -89,9 +90,9 @@ Current files:
 - **START Molde: Forretningsutvikling og entreprenørskap (jan 2026 to now).** Assembled and trained a student partnerships team. Confirmed collaborations: EcoTrain (French rail-tech), Aprikos Venture (Oslo), Møre og Romsdal fylkeskommune (seminar 23 Sept, supersedes an earlier 12 Aug meeting date), Kvæfjord Kommune. NEVER claim signed partnerships/revenue. Norwegian organisation names permitted on the page: Protomore, HiMolde, Møre og Romsdal fylkeskommune, Kongsberg Defence and Aerospace (civilian logistics side only, never the military or technical core).
 - **LO-Studentene.** Budget/finance responsibility; student events and bedriftsbesøk building student and arbeidsliv networks. Dates: see Part 10.
 - **Astorvia (EREA WORLD AG): Supply Chain & Compliance Coordinator (2025 to now).** Vendor qualification + documentation flow for DE/AT/CH data centre builds. 30% audit-cycle cut, EUR 8M infrastructure funding supported. Reference: Marco Kowalewski (COO).
-- **STARZZ LLC: Logistics & Operations Coordinator.** Event/delivery logistics on fixed dates; driver/crew/partner coordination; grew to EUR 27M Sport1 acquisition. Textile/merch sourcing China/Vietnam/Europe. Duration: see Part 10.
+- **STARZZ LLC: Logistics & Operations Coordinator (2022 to 2024).** Event/delivery logistics on fixed dates; driver/crew/partner coordination; grew to EUR 27M Sport1 acquisition. Textile/merch sourcing China/Vietnam/Europe. Duration: see Part 10.
 - **BEM KEK Technologies Pvt Ltd, Mumbai: Logistics & Procurement Coordinator (2021 to 2022).** MRPeasy; +25% OTD.
-- **Education:** MSc HiMolde 2024 to 2026 (thesis under João Ferreira); BSc Mechanical Engineering, Mumbai University 2014 to 2017; Diploma, Directorate of Technical Education Mumbai 2011 to 2014.
+- **Education:** MSc HiMolde 2024 to 2026 (thesis under João Ferreira); Bachelor of Engineering (Mechanical), University of Mumbai 2014 to 2017; Diploma in Mechanical Engineering, MSBTE (Thakur Polytechnic) 2011 to 2014, First Class with Distinction.
 - **Certificates (with verify links):** Fleet Management: Ensuring Seamless Logistical Operations (Alison 2026, https://alison.com/verify/441daf2739); Mastering Supply Chain and Logistics Management (Alison 2026, https://alison.com/verify/934294180b); Google Project Management Professional (2022, Lean Six Sigma, Agile). On tailored CVs lead with the role-matched cert.
 
 ---
@@ -217,7 +218,7 @@ Communication style: short direct bursts, dense output, no padding, no flattery,
 5. **Thesis:** back to TRF (VERA-SNARK), published on GitHub and Streamlit. On trainee CVs keep it factual, not "frontier". Reframe as information logistics for specialist roles.
 6. **Specialist track.** A separate computational-specialist CV for AI-logistics, analyst and decision-support employers. Rarity converts only when legible and aimed; never "can work in every section".
 7. **Red team is mandatory** after the three voices. Honest ceiling: be failed only on structural risks, never on craft.
-8. **Work authorization:** answer straight on every form; never imply secured rights. Details are not stored in this public repo.
+8. **Work authorization:** Work-right rule (Nov 2026, Tiger): never volunteer permit status in a CV, letter or call. If a form or a person asks directly, answer truthfully for that moment; never "yes" unless the right is held at that moment. A stated no-sponsorship clause is not a skip: apply when the right is expected by the start date. Details stay out of this public repo.
 9. **Applicant contact block** filled from a local file at render time.
 11. **C1 resolved (Tiger, Nov 2026): all CVs in Norwegian bokmål.** Mandatory guards, because Ellis and Ramsli both warn a Norwegian CV can read as overstating fluency: (a) the Språk section always states the true level; (b) native-speaker check before any send; (c) Tiger can speak every line of the CV aloud in Norwegian; (d) if the posting is English-only and the reader is non-Norwegian, an English copy may be attached alongside, never instead.
 10. **CV structure (Ramsli template):** Nøkkelkvalifikasjoner (tailored per ad), Erfaring with MM.YYYY, Utdanning, Kurs og sertifiseringer, Språk, Førerkort, Fritid, Referanser. No birth date, no photo. Norwegian level in Språk only. Fritid = tango and milonga, Molde Swing Club.

@@ -17,7 +17,7 @@ You are the red team. Your job is to fail this application the way a skeptical N
 
 ## Hard rules
 - No fabrication. If a fix needs a fact not in `facts.md`, write `[ASK TIGER: ...]`. Never invent numbers, dates, episodes, language level, or work rights.
-- Work authorization is never "fixed" by wording. Flag it and state the honest line; do not soften it into an implication.
+- Work-right rule: never put permit status in a CV or letter; never draft an untrue answer to a right-to-work question.
 - Every fix is a diff: exact old line, exact new line, one-line reason. Max 7 fixes, ranked by impact. If more are needed, say the variant is wrong and name the right one.
 - Letter and CV must match. Any role, date or number in one and not the other is a P0 finding.
 - Mechanical sweep every time: em dashes, banned phrases, words used 3+ times, word count, full https:// links, exclamation marks.

@@ -11,7 +11,7 @@ The red team changes its weights by the job. Step 1 sets the variables from the 
 | `working_language` | NO-required / NO-preferred / EN | Language gate, CV language (C1) |
 | `cv_language_risk` | low / medium / high | All CVs are Norwegian (Part 10.11). High when the role needs daily spoken Norwegian: check the four guards are met, never block on it |
 | `experience_cap` | none / total-years / post-grad-years | Which roles may appear; STARZZ-only vs procurement back in |
-| `sponsorship_stance` | stated-yes / silent / stated-no | Kill filter weight; stated-no = recommend skip |
+| `sponsorship_stance` | stated-yes / silent / stated-no | Whether the application form is likely to ask; never a skip on its own |
 | `channel` | warm / recruiter / kontaktperson / portal | Whether a pre-apply call or note is mandatory |
 | `domain` | maritime / offshore / energy / fleet / datacentre / procurement / other | Which research asset (one) and which HiMolde modules |
 | `reader` | HR screener / hiring manager / panel / recruiter | Six-second scan vs depth read |
@@ -19,7 +19,7 @@ The red team changes its weights by the job. Step 1 sets the variables from the 
 Print the variable block at the top of every review.
 
 ## Step 2: Kill filters (score each 0 to 3; any 3 = reject risk)
-1. Work authorization: weight x3 if `sponsorship_stance` = stated-no or silent at a small firm.
+1. Work-right readiness: the letter and CV must not raise permits; if the form asks, a true answer is prepared. Any untrue answer = automatic SKIP verdict.
 2. Language gate: `working_language` vs locked Norwegian level.
 3. Overqualification / flight risk: weight x2 if `role_tier` = trainee or coordinator. Check MSc prominence, research links, thesis framing, "four years".
 4. Scatter: more than one placement identity on the page.

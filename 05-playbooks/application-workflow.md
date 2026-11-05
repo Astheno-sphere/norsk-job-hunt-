@@ -4,12 +4,12 @@ Run when Tiger pastes a job. ANIMA builds, recruiter intel sharpens, red team at
 
 ## Stage A: Triage (2 minutes, before any writing)
 1. Fill `templates/job-intake.md` from the posting, including the red-team variables.
-2. Hard-mismatch check (`01-doctrine/hr-perspective.md`). Stated no-sponsorship, a credential Tiger lacks, or Norwegian fluency for phone/sales = SKIP, log reason, stop.
+2. Hard-mismatch check (`01-doctrine/hr-perspective.md`). A credential Tiger lacks or Norwegian fluency for phone/sales = SKIP, log reason, stop. No-sponsorship clauses are not a skip (work-right rule, CLAUDE.md). Check the log for a previous application to the same posting.
 3. Verdict to Tiger in three lines: fit, the one real risk, apply or skip.
 
 ## Stage B: Channel (before the portal)
 4. Warm route? Contact, alum, recruiter in `04-pipeline/contacts.md`.
-5. Kontaktperson named in the ad? Call before applying (Alisa Ramsli script, `06-recruiter-intel/alisa-ramsli.md` section 1): introduce, ask what matters most in the role and how the work is organised, ask the permit question honestly if relevant. Their answer becomes the letter's L2 pain; the letter opens or closes by thanking them for the call.
+5. Kontaktperson named in the ad? Call before applying (Alisa Ramsli script, `06-recruiter-intel/alisa-ramsli.md` section 1): introduce, ask what matters most in the role and how the work is organised, do not raise permits. Their answer becomes the letter's L2 pain; the letter opens or closes by thanking them for the call.
 
 ## Stage C: Build
 6. Route the CV (`03-cvs/variants.md`) by `experience_cap`, `working_language`, `cv_language_risk`. Address by region.
