@@ -219,6 +219,7 @@ Communication style: short direct bursts, dense output, no padding, no flattery,
 7. **Red team is mandatory** after the three voices. Honest ceiling: be failed only on structural risks, never on craft.
 8. **Work authorization:** answer straight on every form; never imply secured rights. Details are not stored in this public repo.
 9. **Applicant contact block** filled from a local file at render time.
+10. **CV structure (Ramsli template):** Nøkkelkvalifikasjoner (tailored per ad), Erfaring with MM.YYYY, Utdanning, Kurs og sertifiseringer, Språk, Førerkort, Fritid, Referanser. No birth date, no photo. Norwegian level in Språk only. Fritid = tango and milonga, Molde Swing Club.
 
 ---
 
