@@ -9,7 +9,7 @@ Run when Tiger pastes a job. ANIMA builds, recruiter intel sharpens, red team at
 
 ## Stage B: Channel (before the portal)
 4. Warm route? Contact, alum, recruiter in `04-pipeline/contacts.md`.
-5. Kontaktperson named in the ad? Draft a short call script or note: one fit question, one honest line, ask what matters most to them (NAV/EURES tactic). Answers feed the letter.
+5. Kontaktperson named in the ad? Call before applying (Alisa Ramsli script, `06-recruiter-intel/alisa-ramsli.md` section 1): introduce, ask what matters most in the role and how the work is organised, ask the permit question honestly if relevant. Their answer becomes the letter's L2 pain; the letter opens or closes by thanking them for the call.
 
 ## Stage C: Build
 6. Route the CV (`03-cvs/variants.md`) by `experience_cap`, `working_language`, `cv_language_risk`. Address by region.
@@ -23,7 +23,8 @@ Run when Tiger pastes a job. ANIMA builds, recruiter intel sharpens, red team at
 
 ## Stage E: Ship
 12. Render once (Chrome print to PDF). Native speaker check for any Norwegian text.
-13. Log one row in `04-pipeline/applications.md`; set the follow-up date (ask in interview, else five working days, LinkedIn).
+13. Log one row in `04-pipeline/applications.md`. Follow-up: 1 to 2 weeks after the søknadsfrist, call the contact person (not email). On a no, call and ask what made the chosen candidate stronger (Ramsli section 2).
+14. Interview prep: the five standard questions in Ramsli section 3, answered from who they want, in their ad's adjectives.
 
 ## Weekly engine (full spec: `01-doctrine/TIGER_OUTREACH_ENGINE_v1.0.md`, log in `04-pipeline/outreach-ledger.md`)
 - Five warm targets Monday, sends Tue to Thu, sweep Friday, one post a week.

@@ -18,7 +18,7 @@ The red team changes its weights by the job. Step 1 sets the variables from the 
 
 Print the variable block at the top of every review.
 
-## Step 2: Kill filters (score each 0 to 3; any 3 = reject risk)
+## Step 2: Kill filters (score each 0 to 3; any 3 = reject risk; filter 11 at the end)
 1. Work authorization: weight x3 if `sponsorship_stance` = stated-no or silent at a small firm.
 2. Language gate: `working_language` vs locked Norwegian level.
 3. Overqualification / flight risk: weight x2 if `role_tier` = trainee or coordinator. Check MSc prominence, research links, thesis framing, "four years".
@@ -26,6 +26,7 @@ Print the variable block at the top of every review.
 5. Fit-for-level: titles pitched above or below the role.
 6. Letter/CV mismatch: any role, date, number in one and not the other.
 7. Missing commitment signal: no stay/learning-Norwegian/why-Norway line (Thorsdottir).
+11. No call made: ad names a contact person and the letter shows no sign of a call (Ramsli). Weight x2 for portal channel.
 8. Unverifiable claim: anything Tiger cannot defend for five minutes.
 9. Generic: could this letter go to ten companies unchanged?
 10. Task-word miss: fewer than half the posting's task words reflected.
@@ -47,7 +48,7 @@ why: one line, which filter it closes
 P0 = would cause rejection. P1 = weakens. P2 = polish. Never more than 2 P2s.
 
 ## Step 5: Pre-send moves (from recruiter intel)
-- `channel` = portal and the ad names a kontaktperson: draft a 3-sentence call script or note (NAV/EURES tactic).
+- Ad names a kontaktperson: draft the 3-step call script from `06-recruiter-intel/alisa-ramsli.md` section 1, tailored to this ad.
 - Always: the follow-up date (ask in interview; else five working days, LinkedIn message).
 - `company_style` = traditional-NO: one human line (hobby, why Norway).
 

@@ -10,7 +10,7 @@ You are the red team. Your job is to fail this application the way a skeptical N
 1. `05-playbooks/red-team-protocol.md`: variables, rubric, output format. Follow it exactly.
 2. `01-doctrine/honesty-locks.md`
 3. `01-doctrine/hr-perspective.md`
-4. `06-recruiter-intel/norwegian-recruiters.md`
+4. `06-recruiter-intel/alisa-ramsli.md` and `06-recruiter-intel/norwegian-recruiters.md`
 5. `02-profile/facts.md`: the only allowed facts.
 6. The CV variant named in the brief (from `03-cvs/`), and the letter if given.
 7. `01-doctrine/TIGER_ANIMA_v5.0_UNIFIED.md` Parts 0, 5 and 10 only.

@@ -1,10 +1,11 @@
 # Norwegian recruiter intel
 
-Sourced advice only. Every line names who said it. Paraphrased, not quoted at length. Pending: Alexia/Alesia Norgeland (no public source found Nov 2026; add when Tiger supplies a link).
+Sourced advice only. Every line names who said it. Paraphrased, not quoted at length. Primary source: Alisa Ramsli, see `alisa-ramsli.md`.
 
 ## Sources
 | Who | Role | Source |
 |---|---|---|
+| Alisa Ramsli (@alisa_norgeland) | HR specialist, career consultant, ex-NAV, 370+ interviews | https://alisanorgeland.github.io/site/ (see `alisa-ramsli.md`) |
 | Karin Ellis | Founder, Ellis Culture (intercultural training) | The Local, CV dos and don'ts (2022) |
 | Anna Duong | People Operations Specialist, Aize | The Local, How to stand out (Oct 2025) |
 | Kim Hale | Umbrella (consulting and recruitment), Splash initiative | The Local, How to stand out (Oct 2025) |
