@@ -14,7 +14,7 @@ Run for every posting. Fill `templates/job-intake.md` first.
 10. **Render once.** Chrome print to PDF. Native speaker check for Norwegian.
 11. **Log.** One row in `04-pipeline/applications.md`.
 
-## Weekly engine
+## Weekly engine (full spec: `01-doctrine/TIGER_OUTREACH_ENGINE_v1.0.md`, log in `04-pipeline/outreach-ledger.md`)
 - Five warm, well-fit targets per week.
 - Book T4 forklift (highest-ROI credential).
 - Temp-agency registration as a Norwegian employer anchor.

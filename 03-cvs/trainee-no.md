@@ -23,7 +23,7 @@ Masterstudent i bærekraftig energilogistikk ved Høgskolen i Molde med bakgrunn
 - Studentarrangementer og bedriftsbesøk.
 
 ## Erfaring
-**STARZZ LLC**, logistikk- og driftskoordinator [periode]
+**STARZZ LLC**, logistikk- og driftskoordinator (2 år) [eksakte måneder fra lokal fil]
 - Leverandørkvalifisering og spesifikasjonskontroll for utstyr brukt av utøvere på nasjonal TV. [velg Mode 1 eller Mode 2]
 - Innkommende utstyr, arrangementslogistikk, utøverreiser og partnerleveranser i DACH.
 - Selskapet ble kjøpt opp av Sport1 (EUR 27M).

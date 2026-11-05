@@ -1,6 +1,7 @@
 # Session bootstrap
 
 Read this first, then only the files the task needs (see README map).
+Master doctrine: `01-doctrine/TIGER_ANIMA_v5.0_UNIFIED.md` (Part 0 and Part 10 outrank everything). Weekly cadence: `01-doctrine/TIGER_OUTREACH_ENGINE_v1.0.md`.
 
 ## Non-negotiables
 - Honesty over polish. No fabricated experience, numbers, dates, language level or work rights. Missing fact = ask Tiger, never invent. See `01-doctrine/honesty-locks.md`.

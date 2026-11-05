@@ -17,10 +17,10 @@ Single source of truth for Tiger's Norwegian job search. Doctrine, journey, CVs,
 | Folder | What it holds | Load when |
 |---|---|---|
 | `00-journey/` | How the strategy evolved, what failed, what worked | Strategy questions, retros |
-| `01-doctrine/` | ANIMA v5.0 writing rules, the lenses, HR/red-team view, honesty locks | Writing any letter, CV, answer |
+| `01-doctrine/` | TIGER_ANIMA_v5.0_UNIFIED (master doctrine), TIGER_OUTREACH_ENGINE_v1.0 (weekly cadence), the lenses, HR/red-team view, honesty locks | Writing any letter, CV, answer |
 | `02-profile/` | Verified fact base and research assets | Building or checking any claim |
 | `03-cvs/` | CV variants in markdown and the routing rule | Every application |
-| `04-pipeline/` | Applications log and contacts | Every application, weekly review |
+| `04-pipeline/` | Applications log, contacts, outreach ledger | Every application, weekly review |
 | `05-playbooks/` | Step-by-step workflows and skip rules | Every application |
 | `templates/` | Job intake template | New posting |
 

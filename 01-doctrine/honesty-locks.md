@@ -7,7 +7,7 @@ Claims that are fixed. If a draft drifts from these, the draft is wrong.
 - Oda-type leadership: team-building and training. Never line management of large driver teams. State the gap plainly.
 - START Molde: business development and partnerships, not revenue sales. Say "partnerships" and "co-designed seminar", never "closed sales".
 - Research assets (GSFleet, Veøy, Photoncycle, ZNL, datacentre): outside-in product and market study. Never a validated operational finding.
-- STARZZ: logistics and operations coordination. Pick Mode 1 or Mode 2 (see `lenses.md`).
+- STARZZ: logistics and operations coordination, 2 years. Never "three years". Pick Mode 1 or Mode 2 (see `lenses.md`).
 
 ## Work authorization
 - No wording fixes it. Answer it straight on forms and in interview.
@@ -15,7 +15,7 @@ Claims that are fixed. If a draft drifts from these, the draft is wrong.
 - Details are not stored in this public repo.
 
 ## Language
-- Norwegian: locked phrase only (see `anima-v5.md`). Have a native speaker check any Norwegian letter. Do not let the letter write a cheque the phone voice cannot cash.
+- Norwegian: locked phrase only (see `TIGER_ANIMA_v5.0_UNIFIED.md`). Have a native speaker check any Norwegian letter. Do not let the letter write a cheque the phone voice cannot cash.
 - German: not on CVs.
 
 ## Confidentiality

@@ -19,7 +19,7 @@ Only facts Tiger has confirmed. Personal identifiers are kept out of this public
 | Role | Org | Story |
 |---|---|---|
 | Supply Chain & Compliance Coordinator | Astorvia (EREA WORLD AG) | Vendor and investor compliance frameworks for DACH datacentre builds, enabling EUR 8M infrastructure funding; supplier due diligence and KYC |
-| Logistics & Operations Coordinator | STARZZ LLC | Inbound equipment, event logistics, athlete travel, partner deliveries across DACH; company acquired by Sport1 for EUR 27M |
+| Logistics & Operations Coordinator (2 years) | STARZZ LLC | Inbound equipment, event logistics, athlete travel, partner deliveries across DACH; company acquired by Sport1 for EUR 27M |
 | Logistics & Procurement Coordinator | BEM KEK Technologies Pvt Ltd | Heavy-lift industrial equipment and mechanical components for tenders; 25% OTD improvement via MRPeasy |
 
 Total: about four years cross-border procurement and logistics across DACH, India, UAE.
@@ -51,6 +51,6 @@ Total: about four years cross-border procurement and logistics across DACH, Indi
 - Agaraoli Aravazhi, Postdoctoral Fellow, Faculty of Logistics, HiMolde
 
 ## Open questions to confirm
-- STARZZ duration: earlier drafts said both "2 years" and "three years". Fix one number.
+- RESOLVED Nov 2026: STARZZ = 2 years (Tiger confirmed).
 - LO-Studentene dates: an older draft had styremedlem 2024 and økonomiansvarlig 2023/24; the current record says 2025 and 2024 to 2025. Current record used here.
 - STARZZ episode for Mode 2: one real week where something almost broke and what you did.
