@@ -40,8 +40,6 @@ Record her answer to 2 verbatim; it replaces the opening line of the letter.
 
 Hei Runa,
 
-[Takk for en hyggelig samtale på telefon i dag. Den gjorde meg enda mer motivert til å søke.]
-
 En undervannspumpe som er riktig konstruert, men som står på kaia uten riktig dokumentasjon, hjelper ingen. I graduate-programmet deres går konstruksjon, produksjon, testing og forsyningskjede inn i hverandre. Det er der jeg vil lære.
 
 Jeg er maskiningeniør, og jeg har stått på verkstedgulvet. Jeg konstruerte en hydraulisk krympemaskin i SolidWorks med GD&T og toleranser på ±0,02 mm, og presisjonen økte med 80 prosent. Ved lokomotivverkstedet til Central Railway brukte jeg FFT-vibrasjonsanalyse for å finne hvor akslene trengte gløding og spenningsavlastning. Hos STARZZ kvalifiserte jeg leverandører i Kina, Vietnam og Europa der spesifikasjonen ikke kunne fravikes, og koordinerte leveranser på datoer som ikke kunne flyttes.
@@ -73,4 +71,5 @@ Arshad Akhtar Abbasia
 | Date | Step | Note |
 |---|---|---|
 | 2026-11-05 | built | CV master NO + letter; call pending |
+| 2026-11-06 | call | Runa unreachable; letter sent without call line; follow-up call Mon/Tue |
 | 2026-11-05 | revised | switched to one-page trainee CV (STARZZ only); BEM KEK line in letter replaced by NDT case |
