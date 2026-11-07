@@ -27,6 +27,7 @@ One row per application. Status: drafting, sent, acknowledged, interview, offer,
 | 2026-10 | SLB | Graduate | | | skipped | no-sponsorship clause (rule changed Nov 2026: no longer a skip) |
 | 2026-11-05 | OneSubsea | 2027 Graduate Engineer Trainee, Sandsli (FINN 477189644) | kontaktperson | trainee NO | drafting | call Runa Linn Slettjord first; see jobs/ |
 | 2026-11-07 | Caverion Danmark | Operations Manager, Jylland (Fredericia) | portal | | skipped | P&L and Site Manager line management (level), professional Danish required, technical FM experience; redirect to Caverion Norge |
+| 2026-11-07 | Norsk Industri | Trainee Bergindustrien (FINN 478791714) | kontaktperson | | skipped | requires MSc geology or mining engineering (hard credential); redirect: call Anita Helene Hall re logistics needs in member companies; direct outreach Omya Hustadmarmor (Molde region) |
 | 2026-11 | HiMolde | TRANSPLAN PhD | direct | academic | [confirm] | deadline 1.11.2026 |
 
 ## Skipped (with reason)
